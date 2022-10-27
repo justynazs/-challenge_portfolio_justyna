@@ -9,3 +9,5 @@ Jak napiszę, że chcę zdobyć nowe kompetencje cyfrowe to zabrzmi banalnie/nud
 Stay tuned 
 
 Justyna :)
+
+# Subtask 4
