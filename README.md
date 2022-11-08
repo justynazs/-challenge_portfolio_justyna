@@ -142,4 +142,10 @@ Dużym błędem jest brak możliwości usunięcia Gracza z aplikacji
 
 
 
+# **Task 2** 
+
+https://drive.google.com/drive/folders/19kqP4betxQXrstihLRR8fu5I_nLssCrw
+
+
+
 
