@@ -146,6 +146,9 @@ Dużym błędem jest brak możliwości usunięcia Gracza z aplikacji
 
 https://drive.google.com/drive/folders/19kqP4betxQXrstihLRR8fu5I_nLssCrw
 
+## Subtask 4
+
+https://docs.google.com/document/d/164lum8wfixR88mhimARGnkl_FtmL5E5n7eGDKlgOF60/edit
 
 
 
