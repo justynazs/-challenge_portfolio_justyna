@@ -1,32 +1,47 @@
 
-# HELLO WORLD! MY VERY FIRST REPO! 😁😺🐾
-
+# HELLO WORLD! MY VERY FIRST REPO 👍👏👩‍🦱
 
 # **Task 1** 
 
 ## **Subtask 1**
-8 pkt z fajnym komentarzem: _"No mordeczko, moja. Postarałaś się!"_
+
+## 8/10 pkt z fajnym komentarzem: _"No mordeczko, moja. Postarałaś się!"_
+
+
 ## Subtask 3 
-Dlaczego zdecydowałam się na udział w Challenge Portfolio? 
 
+## Dlaczego zdecydowałam się na udział w Challenge Portfolio? 
+Moje motywacje to:
 
-Jak napiszę, że chcę zdobyć nowe kompetencje cyfrowe to zabrzmi banalnie i nudno ale tak właśnie jest. Od znajomej usłyszałam o Dare It i możliwościach jakie stwarza zwłaszcza kobietom w rozwoju zawodowym lub przebranżowieniu jak w moim przypadku. Dlatego: Here I am!
+✔ zdobycie kompetencji cyfrowych 
+
+✔ chęć nauki
+
+✔ ciekawość
+
+✔ przebranżowienie 
+
+✔ nomadyzm cyfrowy
+
+✔ niepewna sytuacja geopolityczna
+
 
 Stay tuned 
 
 ###### _Justyna :)_ 
 😊😺
+
 ## Subtask 4
 
 
-### Na czym polega ta aplikacja? Do czego służy?
+## Na czym polega aplikacja Scout Panels? Do czego służy?
 
 Scouts  Panel to aplikacja służąca do tworzenia, przeglądania i zarządzania danymi o zawodnikach (piłkarzach), rozegranych meczach oraz do tworzenia szczegółowych raportów.
 
 W aplikacji zarejestrowanych jest 725 graczy (na dzień 31.10.)
 
 
-### Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a?
+## Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a?
 
 Aplikacja wyposażona jest w następujące funkcjonalności:
 
@@ -63,7 +78,7 @@ Aplikacja wyposażona jest w następujące funkcjonalności:
 Strona jest intuicyjna. 
 
 
-Unowocześniłabym wygląd aplikacji bo jest rczej uboga, dodając kolor tła lub grafiki związane z piłką nożną.  
+Unowocześniłabym wygląd aplikacji bo jest zdecydowanie uboga, dodając kolor tła lub grafiki związane z piłką nożną.  
 
 Proponuję dodatkowe zmiany:
 
@@ -73,28 +88,29 @@ Proponuję dodatkowe zmiany:
 - w formularzu danych personalnych dodałabym: ikony mediów społecznościowych, przy opcji “Języki” dodałabym frazę “Znajomość języków”. 
 
 
-### Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?
+## Oceń interfejs aplikacji – czy Ci się podoba, czy nie?
 
 Interfejs aplikacji nie powala na kolana designem ale sprawia, że strona jest czytelna i prosta w obsłudze.
 
 
 
-Na stronie głównej po lewej stronie widoczne są podstrony z ikonkami określającymi ich funkcjonalność 
+Na stronie głównej po lewej stronie widoczne są podstrony z ikonkami określającymi ich funkcjonalność. 
 
 
-W formularzu danych personalnych pojawia się wygodna opcja wyboru daty urodzenia z kalendarza za pomocą ”Date pickera”
+W formularzu danych personalnych pojawia się wygodna opcja wyboru daty urodzenia z kalendarza za pomocą ”Date pickera”.
 
-Z rozwijanej listy wybrać można "Województwo" - fajne rozwiązanie bo nie trzeba wpisywać nazwy województwa ręcznie
-
-
-Wartości liczbowe np. wiek zawodnika również można wybrać z rozwijanej listy 
+Z rozwijanej listy wybrać można "Województwo" - fajne rozwiązanie bo nie trzeba wpisywać nazwy województwa ręcznie.
 
 
-Opcję "Dodaj język" oraz link do You Tube'a można usunąć - po wpisaniu frazy np. "angielski" lub wklejeniu linka do You Tube pojawia się czerwona ikonka kosza 
+Wartości liczbowe np. wiek zawodnika również można wybrać z rozwijanej listy.
+
+
+Opcję "Dodaj język" oraz link do You Tube'a można usunąć - po wpisaniu frazy np. "angielski" lub wklejeniu linka do You Tube pojawia się czerwona ikonka kosza. 
 
 
 
-### Czy aplikacja jest intuicyjna? 
+## Czy aplikacja jest intuicyjna? 
+
 Aplikacja jest prosta w obsłudze i nie sprawia użytkownikom trudności. 
 
 
@@ -109,7 +125,7 @@ Aplikacja jest responsywna i czytelna na urządzeniu mobilnym.
 
 
 
-### Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? 
+## Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? 
 
 W formularzu dodawania danych personalnych, przy dacie urodzenia gracza celowo podałam absurdalną datę - 31.10.2022 żeby sprawdzić czy system pozwoli mi pójść dalej. No i pozwolił, ładnie zapisując wszystkie dane i nie informując o błędzie.
 
@@ -156,6 +172,19 @@ https://docs.google.com/document/d/164lum8wfixR88mhimARGnkl_FtmL5E5n7eGDKlgOF60/
 
 
 # **Task 3** 
+
+## **Subtask 1**
+
+https://docs.google.com/spreadsheets/d/1Zw9536ijcbvO7mphFlzcEHwc686ZagMSifiKdcNm_S0/edit#gid=0
+
+## **Subtask 2**
+
+https://docs.google.com/spreadsheets/d/1WPYQe8Za87NjGtabYu8MtIbrKVSBEB7XGkPmvRujPHg/edit#gid=0
+
+## **Subtask 3**
+
+https://docs.google.com/document/d/1zeuzy9co_0sSew0ehgCVRNbG4BZGC2dB3zX7qsrf3Yo/edit
+
 
 https://drive.google.com/drive/u/0/folders/1c8rVBC65SfG458uPo7uSVF3HJqoTjOuj
 
