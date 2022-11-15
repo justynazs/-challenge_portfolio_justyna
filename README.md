@@ -155,9 +155,9 @@ Raport z Lighthouse pokazuje co można ulepszyć i poprawić:
 
 Po wejściu na konto Gracza przycisk “Clear” (różowy) jest nieaktywny i klikając w niego domyślnie powinien usuwać dane osobowe wraz z całym kontem, a tak się nie dzieje.
 
-Kafelki na stronie głównej powinny być klikalne
+Kafelki na stronie głównej powinny być klikalne.
 
-Dużym błędem jest brak możliwości usunięcia Gracza z aplikacji
+Błędem jest brak możliwości usunięcia Gracza z aplikacji.
 
 
 
@@ -165,6 +165,18 @@ Dużym błędem jest brak możliwości usunięcia Gracza z aplikacji
 # **Task 2** 
 
 https://drive.google.com/drive/folders/19kqP4betxQXrstihLRR8fu5I_nLssCrw
+
+## Po co piszemy przypadki testowe?
+
+✔ Przypadki testowe piszemy, aby udokumentować w przejrzysty sposób różne możliwości obsłużenia modułów w ramach danej aplikacji. Dobre pokrycie przypadkami testowymi oprogramowania daje nam pewność podczas testów, że nie pominęliśmy żadnej ważnej funkcjonalności. Po zakończeniu testów, na podstawie przypadków testowych możemy budować nasze raporty z wykonanych testów. Dla nowo przyjętych adeptów IT przypadki testowe mogą stać się bardzo dobrym źródłem informacji o niej. 
+
+✔ Przypadki testowe można również wykorzystać w kontekście testów akceptacyjnych w celu potwierdzenia działania aplikacji zgodnie z oczekiwaniami. Jak widać na powyższych przykładach, przypadki testowe są bardzo ważne.Z jednej strony przypadki testowe dają nam jasny obraz sytuacji w aplikacji plus pozwalają łatwo przechowywać dane odnośnie do wykonanych testów.
+
+✔ Gdy projekt nad którymi pracujemy jest mały, wówczas nie warto pisać przypadków testowych. Bo mały projekt to mały budżet jaki i czas jest ograniczony. Samo napisanie przypadków wymaga sporego nakładu czasu, co za tym idzie, by on się zwrócił, konieczne jest kilkukrotne wykonanie testów.
+
+
+
+
 
 ## Subtask 4
 
