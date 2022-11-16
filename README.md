@@ -200,3 +200,11 @@ https://docs.google.com/document/d/1zeuzy9co_0sSew0ehgCVRNbG4BZGC2dB3zX7qsrf3Yo/
 
 https://drive.google.com/drive/u/0/folders/1c8rVBC65SfG458uPo7uSVF3HJqoTjOuj
 
+
+## **Subtask 4**
+
+https://docs.google.com/spreadsheets/d/1nNybXkQdeql2MCF3vWpmIjwIWXkWHJWBVM88N4OjSrA/edit#gid=0
+
+
+
+
