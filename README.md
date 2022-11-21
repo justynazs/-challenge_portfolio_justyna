@@ -215,7 +215,7 @@ https://docs.google.com/spreadsheets/d/119mccfGVv3SsEZq25Hg2-M6XC1UMUe3D6zbT29Di
 
 ## Subtask 3 - Do czego służy ta aplikacja?
 
-Focusly to aplikacja mobilna do pobrania w App Store lub Google Play. Najogólniej mówiąc apliakcja przeznaczona jest do relaksacji poprzez odsłuchiwanie prowadzonych medytacji, muzyki, programów dotyczących zdrowia psychicznego i fizycznego.
+Focusly to aplikacja mobilna do pobrania w App Store lub Google Play. Najogólniej mówiąc apliakcja przeznaczona jest do relaksacji poprzez odsłuchiwanie prowadzonych medytacji, muzyki, programów dotyczących zdrowia psychicznego.
 
 ## Do czego służy aplikacja? Jaki jest cel? 
 
@@ -234,7 +234,9 @@ Użytkownikiem końcowym aplikacji będzie każda osoba, która pobierze aplikac
 
 ## Czy według Ciebie aplikacja jest user friendly?
 
-Uważam, że aplikacja jest przyjazna dla użytkownika oraz intuicyjna. Pozwala na bezproblemowe poruszanie się po aplikacji i odszukiwanie interesujących kwestii. Interfejs graficzny aplikacji jest przyjazny i estetyczny. Wyróżnia się czytelnymi ikonami, logo, stonowanymi kolorami, które tworzą świetny design. Ciemny ekran nie męczy oczu. Cel aplikacji - wyciszenie, uważność, został osiągnięty poprzez spójną identyfikację wizualną wpisującą się w trend Slow.
+Uważam, że aplikacja jest przyjazna dla użytkownika oraz intuicyjna. Pozwala na bezproblemowe poruszanie się po aplikacji i odszukiwanie interesujących kwestii. Interfejs graficzny aplikacji jest przyjazny i estetyczny. Wyróżnia się czytelnymi ikonami, logo, stonowanymi kolorami, które tworzą świetny design. Ciemny ekran nie męczy oczu. 
+
+Cel aplikacji - wyciszenie, uważność, został osiągnięty poprzez spójną identyfikację wizualną wpisującą się w trend Slow.
 
 ### Aplikacja umożliwia wygodne logowanie przez:
 
@@ -247,7 +249,9 @@ Uważam, że aplikacja jest przyjazna dla użytkownika oraz intuicyjna. Pozwala 
 👉  program partnerski MultiLife i MultiSport
 
 Obecna jest również opcja dostępu bez logowania jako Gość - fajna, można sprawdzić czy aplikacja nam odpowiada, bez problematycznego logowania.
-Przechodzenie między stronami odbywa się poprzez klikanie (naciskanie) odpowiednich ikon lub przesuwanie palcem po ekranie w prawo - Strona główna, Odkrywaj, Oddychaj, Muzyka, Creators. Gdy chcemy wrócić do poprzedniej strony możemy nacisnąć ikonę reprezentującą daną stronę lub przesunąć palcem po ekranie w lewo.
+Przechodzenie między stronami odbywa się poprzez klikanie (naciskanie) odpowiednich ikon lub przesuwanie palcem po ekranie w prawo - Strona główna, Odkrywaj, Oddychaj, Muzyka, Twórcy. 
+
+Gdy chcemy wrócić do poprzedniej strony możemy nacisnąć ikonę reprezentującą daną stronę lub przesunąć palcem po ekranie w lewo.
 
 ## Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? 
 
