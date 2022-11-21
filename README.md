@@ -219,12 +219,14 @@ Focusly to aplikacja mobilna do pobrania w App Store lub Google Play.
 
 Aplikacja przeznaczona jest do relaksacji poprzez odsłuchiwanie setki nagrań: 
 
+
 👉 ćwiczeń oddechowych 
 
 
 👉 medytacji prowadzonych
 
-👉 pratyk uwazności
+
+👉 pratyk uważności
 
 
 👉 programów psychoedukacyjnych
@@ -278,4 +280,6 @@ Przycisk “Odtwórz” pod medytacjami umieściłabym centralnie.
 ## Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej? 
 
 W przypadku aplikacji natywnej testowaniu podlega jej „zewnętrzna” część - interfejs, a nie jej „środek” np. kod źródłowy. Ponadto tester nie zna budowy, sposobu działania testowanej aplikacji, po prostu używa jej i zgłasza pojawiające się w jej działaniu nieprawidłowości. Aplikacja mobilna, która poddawana jest testom funkcjonalnym traktowana jest jak przysłowiowa czarna skrzynka stąd metafora czarnej skrzynki. Natomiast w testowaniu białyskrzynkowym testowane jest “wnętrze” aplikacji. Testy natywne aplikacji pozwalają sprawdzić czy funkcjonalności działają prawidłowo, interfejs użytkownika, interfejsy API, zabezpieczenia oraz komunikacja na linii klient-serwer.
+
+
 
