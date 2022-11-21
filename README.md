@@ -215,9 +215,21 @@ https://docs.google.com/spreadsheets/d/119mccfGVv3SsEZq25Hg2-M6XC1UMUe3D6zbT29Di
 
 ## Subtask 3 - Do czego służy ta aplikacja?
 
-Focusly to aplikacja mobilna do pobrania w App Store lub Google Play. 
+### Focusly to aplikacja mobilna do pobrania w App Store lub Google Play. 
 
-Aplikacja przeznaczona jest do relaksacji poprzez odsłuchiwanie setki nagrań prezentujących: 
+ 👉 aplikacja umożliwia strumieniowe przesyłanie treści użytkownikom przez 24/H 
+(np. prowadzonych medytacji, specjalistycznych programów/wykładów związanych ze zdrowiem psychicznym, muzyki relaksacyjnej, tworzenia listy z ulubionymi medytacjami, personalizowania przeglądanych treści)
+
+ 👉  umożliwia Użytkownikom założenie konta
+
+ 👉  umożliwia świadczenie usługi w postaci spersonalizowanych szkoleń i treści
+ 
+ 👉  umożliwia przetwarzania płatności za usługi w ramach abonamentu
+
+
+## Jaki jest cel aplikacji? 
+
+### Aplikacja przeznaczona jest do relaksacji poprzez odsłuchiwanie setki nagrań prezentujących: 
 
 
 👉 ćwiczenia oddechowe 
@@ -235,16 +247,6 @@ Aplikacja przeznaczona jest do relaksacji poprzez odsłuchiwanie setki nagrań p
 👉 muzyki do pracy, odpoczynku i nauki
 
 
-## Jaki jest cel aplikacji? 
-
- 👉 aplikacja umożliwia strumieniowe przesyłanie treści użytkownikom przez 24/H 
-(np. prowadzonych medytacji, specjalistycznych programów/wykładów związanych ze zdrowiem psychicznym, muzyki relaksacyjnej, tworzenia listy z ulubionymi medytacjami, personalizowania przeglądanych treści)
-
- 👉  umożliwia Użytkownikom założenie konta
-
- 👉  umożliwia świadczenie usługi w postaci spersonalizowanych szkoleń i treści
- 
- 👉  umożliwia przetwarzania płatności za usługi w ramach abonamentu
 
 
 ## Kto ma być użytkownikiem końcowym aplikacji?
