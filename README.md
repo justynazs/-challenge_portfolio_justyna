@@ -207,4 +207,38 @@ https://docs.google.com/spreadsheets/d/1nNybXkQdeql2MCF3vWpmIjwIWXkWHJWBVM88N4Oj
 
 
 
+## Subtask 4
+
+Subtask 3 - Do czego służy ta aplikacja?
+
+Focusly to aplikacja mobilna do pobrania w App Store lub Google Play. Najogólniej służy do relaksacji poprzez odsłuchiwanie medytacji, muzyki, programów dotyczących zdrowia psychicznego i fizycznego.
+
+Do czego służy aplikacja? Jaki jest cel? 
+
+ 👉 aplikacja umożliwia strumieniowe przesyłanie treści użytkownikom 24/H 
+(np. prowadzonych medytacji, specjalistycznych programów/wykładów związanych ze zdrowiem psychicznym, muzyki relaksacyjnej, tworzenia listy z ulubionymi medytacjami, personalizowania przeglądanych treści)
+
+ 👉  umożliwia Użytkownikom założenie konta
+
+             👉  świadczenia usługi w postaci spersonalizowanych szkoleń i treści
+
+             👉  przetwarzania płatności za usługi w ramach abonamentu
+
+Kto ma być użytkownikiem końcowym aplikacji?
+Użytkownikiem końcowym aplikacji będzie każda osoba, która pobierze aplikację z App Store lub Google Play oraz zainstaluje aplikację na urządzeniu mobilnym. Natomiast idealnym członkiem grupy docelowej będzie osoba zainteresowana medytacjami, zagadnieniami związanymi z jogą, ćwiczeniami oddechowymi i pracą nad sobą, walką ze stresem itp.
+
+Czy według Ciebie aplikacja jest user friendly?
+Uważam, że aplikacja jest przyjazna dla użytkownika oraz intuicyjna. Pozwala na bezproblemowe poruszanie się po aplikacji i odszukiwanie interesujących kwestii. Interfejs graficzny aplikacji jest przyjazny i estetyczny. Wyróżnia się czytelnymi ikonami, logo, stonowanymi kolorami, które tworzą świetny design. Ciemny ekran nie męczy oczu. Cel aplikacji - wyciszenie, uważność, został osiągnięty poprzez spójną identyfikację wizualną wpisującą się w trend Slow.
+Aplikacja umożliwia wygodne logowanie przez:
+👉  e-mail
+👉  Facebook
+👉  App Store
+👉  program partnerski MultiLife i MultiSport
+Obecna jest również opcja dostępu bez logowania jako Gość - fajna, można sprawdzić czy aplikacja nam odpowiada, bez problematycznego logowania.
+Przechodzenie między stronami odbywa się poprzez klikanie (naciskanie) odpowiednich ikon lub przesuwanie palcem po ekranie w prawo - Strona główna, Odkrywaj, Oddychaj, Muzyka, Creators. Gdy chcemy wrócić do poprzedniej strony możemy nacisnąć ikonę reprezentującą daną stronę lub przesunąć palcem po ekranie w lewo.
+
+Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? 
+Aplikacja jest dopracowana w każdym calu. Dodałabym opcję Budzenie z ulubioną medytacją lub muzyką. Przycisk “Odtwórz” pod medytacjami umieściłabym centralnie. 
+Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej? 
+W przypadku aplikacji natywnej testowaniu podlega jej „zewnętrzna” część -. interfejs, a nie jej „środek” np. kod źródłowy. Ponadto tester nie zna budowy, sposobu działania testowanej aplikacji, po prostu używa jej i zgłasza pojawiające się w jej działaniu nieprawidłowości. Aplikacja mobilna, która poddawana jest testom funkcjonalnym traktowana jest jak przysłowiowa czarna skrzynka stąd metafora czarnej skrzynki. Natomiast w testowaniu białyskrzynkowym testowane jest “wnętrze” aplikacji. Testy natywne aplikacji pozwalają sprawdzić czy funkcjonalności działają prawidłowo, interfejs użytkownika, interfejsy API, zabezpieczenia oraz komunikacja na linii klient-serwer.
 
