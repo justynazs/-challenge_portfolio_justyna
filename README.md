@@ -244,7 +244,7 @@ https://docs.google.com/spreadsheets/d/119mccfGVv3SsEZq25Hg2-M6XC1UMUe3D6zbT29Di
 👉 programy psychoedukacyjne
 
 
-👉 muzyki do pracy, odpoczynku i nauki
+👉 muzykę do pracy, odpoczynku i nauki
 
 
 
