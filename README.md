@@ -284,4 +284,6 @@ Przycisk “Odtwórz” pod medytacjami umieściłabym centralnie.
 W przypadku aplikacji natywnej testowaniu podlega jej „zewnętrzna” część - interfejs, a nie jej „środek” np. kod źródłowy. Ponadto tester nie zna budowy, sposobu działania testowanej aplikacji, po prostu używa jej i zgłasza pojawiające się w jej działaniu nieprawidłowości. Aplikacja mobilna, która poddawana jest testom funkcjonalnym traktowana jest jak przysłowiowa czarna skrzynka stąd metafora czarnej skrzynki. Natomiast w testowaniu białyskrzynkowym testowane jest “wnętrze” aplikacji. Testy natywne aplikacji pozwalają sprawdzić czy funkcjonalności działają prawidłowo, interfejs użytkownika, interfejsy API, zabezpieczenia oraz komunikacja na linii klient-serwer.
 
 
+## Subtask 4
 
+https://testerzy.atlassian.net/jira/software/projects/CPP/boards/1/backlog?selectedIssue=CPP-19
