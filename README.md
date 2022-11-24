@@ -287,3 +287,11 @@ W przypadku aplikacji natywnej testowaniu podlega jej „zewnętrzna” część
 ## Subtask 4
 
 https://testerzy.atlassian.net/jira/software/projects/CPP/boards/1/backlog?selectedIssue=CPP-19
+
+
+#  TASK 5
+
+##subtask 2
+
+http://localhost/phpmyadmin/index.php?route=/database/sql&db=kurs+_sql_
+
