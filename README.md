@@ -45,16 +45,13 @@ W aplikacji zarejestrowanych jest 725 graczy (na dzień 31.10.)
 
 ## Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a?
 
-Aplikacja wyposażona jest w następujące funkcjonalności:
+Aplikacja umożliwia nastpujace funkcjonalności:
 
-- dodawanie graczy/zawodników (brak opcji “Usuń gracza”)
+- dodawanie graczy (brak opcji “Usuń gracza”)
 - uzupełnianie danych personalnych zawodników oraz dodawanie szczegółowych informacji meczowych w edytowalnych formularzach:
-
-
-** danych obowiązkowych: imię i nazwisko, data urodzenia, główna pozycja 
-
-
-** danych nieobowiązkowych: e-mail, telefon, waga, wzrost, dominująca noga, pozycja alternatywna, województwo, osiągnięcia, główna pozycja, rozegrane mecze, klub, poziom rozgrywek, języki, opcja dodawania odnośników do mediów społecznościowych, platform piłkarskich.
+ 
+ (danych obowiązkowych: imię i nazwisko, data urodzenia, główna pozycja) 
+ (danych nieobowiązkowych: e-mail, telefon, waga, wzrost, dominująca noga, pozycja alternatywna, województwo, osiągnięcia, główna pozycja, rozegrane mecze, klub, poziom rozgrywek, języki, opcja dodawania odnośników do mediów społecznościowych, platform piłkarskich)
 
 
 - tworzenie indywidualnych raportów meczowych z analizą gry zawodników: szczegóły i dane statystyczne o celnych i nietafionych strzałach, podaniach krótkich, podaniach głównych, dośrodkowaniach, pojedynkach 1 na 1, stratach, faulach, odbiorach, innych danych jak: reprezentowany klub, rodzaj meczu, barwę koszulki, recenzja meczu.
