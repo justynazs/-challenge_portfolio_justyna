@@ -251,7 +251,7 @@ https://docs.google.com/spreadsheets/d/119mccfGVv3SsEZq25Hg2-M6XC1UMUe3D6zbT29Di
 
 ## Kto ma być użytkownikiem końcowym aplikacji?
 
-Użytkownikiem końcowym aplikacji będzie każda osoba, która pobierze aplikację z App Store lub Google Play oraz zainstaluje aplikację na urządzeniu mobilnym. Natomiast idealnym członkiem grupy docelowej będzie osoba zainteresowana medytacjami, zagadnieniami związanymi z jogą, ćwiczeniami oddechowymi i pracą nad sobą, walką ze stresem itp.
+Użytkownikiem końcowym aplikacji będzie każda osoba, która pobierze aplikację z App Store lub Google Play oraz zainstaluje aplikację na urządzeniu mobilnym. Natomiast idealnym odbiorcą będzie osoba zainteresowana medytacjami, zagadnieniami związanymi z jogą, ćwiczeniami oddechowymi i pracą nad sobą, walką ze stresem itp.
 
 ## Czy według Ciebie aplikacja jest user friendly?
 
