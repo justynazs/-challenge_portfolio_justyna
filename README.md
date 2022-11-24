@@ -291,7 +291,7 @@ https://testerzy.atlassian.net/jira/software/projects/CPP/boards/1/backlog?selec
 
 #  TASK 5
 
-##subtask 2
+## Subtask 3 
 
 http://localhost/phpmyadmin/index.php?route=/database/sql&db=kurs+_sql_
 
