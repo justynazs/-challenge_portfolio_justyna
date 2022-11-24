@@ -36,7 +36,9 @@ Stay tuned
 
 ## Na czym polega aplikacja Scout Panels? Do czego służy?
 
-Scouts  Panel to aplikacja służąca do tworzenia, przeglądania i zarządzania danymi o zawodnikach (piłkarzach), rozegranych meczach oraz do tworzenia szczegółowych raportów.
+Scouts Panel to aplikacja internetowa służąca do tworzenia, przeglądania i zarządzania danymi 
+
+(o piłkarzach, rozegranych meczach oraz do tworzenia szczegółowych raportów)
 
 W aplikacji zarejestrowanych jest 725 graczy (na dzień 31.10.)
 
