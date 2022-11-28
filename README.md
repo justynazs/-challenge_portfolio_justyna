@@ -296,7 +296,7 @@ https://testerzy.atlassian.net/jira/software/projects/CPP/boards/1/backlog?selec
 
 ## Operatory/Zapytania w SQL:
 
-### 1.SELECT
+### 1. SELECT
 
 Instrukcja służy do pobierania danych z bazy danych:
 
@@ -347,7 +347,7 @@ Instrukcja DISTINCT służy do wyeliminowania duplikatów rekordów i pobierania
 SELECT DISTINCT kolumna1, kolumna2....kolumnaN
 FROM   nazwa_tabeli;
 
-### 6.  INSERT
+### 6. INSERT
 
 Instrukcja INSERT służy do dodawania nowych rekordów do bazy danych:
 
