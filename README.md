@@ -351,12 +351,13 @@ https://docs.google.com/document/d/1ZkCe81PL8pesmCpvyTrOYfYr_1Mq0KaIQRgqvn_N_x0/
  
    ## SELECT * FROM customers WHERE email IS null
     
-    ![SQL_9](https://user-images.githubusercontent.com/116643249/204289247-cb5d144a-d291-4154-9dfd-4ab713486df9.png)
+    ![SQL_9](https://user-images.githubusercontent.com/116643249/204289698-805368d0-316c-4053-acd5-aa58cf65e918.png)
+
 
 
 ### 10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
  
-   ## SELECT * FROM movies WHERE price>”9$” AND movies_id>=4 and MOVIES_ID<=8
+   ## SELECT * FROM movies WHERE price>”9$” AND movies_id>=2 and MOVIES_ID<=8
    
    ![SQL_10](https://user-images.githubusercontent.com/116643249/204286846-bf10632c-edf4-4541-ba31-dde6247be9c5.png)
 
