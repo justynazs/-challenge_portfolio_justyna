@@ -290,9 +290,112 @@ https://testerzy.atlassian.net/jira/software/projects/CPP/boards/1/backlog?selec
 
 #  TASK 5
 
-![SQL_9](https://user-images.githubusercontent.com/116643249/204289698-805368d0-316c-4053-acd5-aa58cf65e918.png) 1
+
 
 ## Subtask 1
+
+## Operatory/Zapytania w SQL:
+
+### 1.SELECT
+
+Instrukcja służy do pobierania danych z bazy danych:
+
+SELECT kolumna1, kolumna2....kolumnaN
+FROM   nazwa_tabeli;
+
+### 2. WHERE, AND, OR
+
+Instrukcja służy do pobierania danych z bazy danych wraz z zawężonymi kryteriami:
+
+SELECT kolumna1, kolumna2....kolumnaN
+FROM   nazwa_tabeli;
+WHERE warunek (i/lub warunki)
+
+### 3. ORDER BY, GROUP BY
+
+Instrukcja ORDER BY pozwala na posortowanie zwracanych wyników:
+Instrukcja GROUP BY pozwala na grupowanie identycznych danych:
+ 
+1.SELECT SUM(nazwa_kolumny)(SUM/COUNT/AVG)
+2. FROM   nazwa_tabeli;
+3. WHERE warunek
+4. GROUP BY nazwa_kolumny
+
+### 4. LIKE, HAVING, TOP
+
+Instrukcja LIKE pozwala na porównanie zwracanych wartości przy użyciu operatorów wieloznacznych:
+ 
+SELECT kolumna1, kolumna2....kolumnaN
+FROM   nazwa_tabeli;
+WHERE nazwa_kolumny Like ‘xxxxx%’ (‘xxxxx%’, ‘%xxxxx%’, itd.)
+ 
+Instrukcja HAVING pozwala na filtrowanie danych zwracanych w wynikach zapytania:
+
+ 
+SELECT kolumna1, kolumna2....kolumnaN
+FROM   nazwa_tabeli
+GROUP BY kolumna2
+HAVING COUNT(kolumna2) > 5
+ 
+Instrukcja TOP pozwala na pobranie określonej liczby rekordów:
+SELECT TOP 5 * FROM nazwa_tabeli
+
+### 5. DISTINCT
+
+Instrukcja DISTINCT służy do wyeliminowania duplikatów rekordów i pobierania jedynie unikalnych wartości:
+ 
+SELECT DISTINCT kolumna1, kolumna2....kolumnaN
+FROM   nazwa_tabeli;
+
+### 6.  INSERT
+
+Instrukcja INSERT służy do dodawania nowych rekordów do bazy danych:
+
+ 
+INSERT INTO nazwa_tabeli(kolumna1, kolumna2, ...kolumnaN)
+VALUES (wartosc1, wartosc2, ... wartoscN);
+
+
+### 7. UPDATE
+
+Instrukcja UPDATE służy do aktualizowania już istniejących rekordów:
+UPDATE nazwa_tabeli
+SET kolumna1 = wartosc1, kolumna2 = wartosc2, ...kolumnaN = wartoscN
+WHERE warunek
+
+### 8. DELETE
+
+Instrukcja DELETE pozwala na usunięcie rekordu/rekordów:
+ 
+DELETE FROM nazwa_tabeli
+WHERE warunek // warto pamiętać o warunku aby nie usunąć wszystkich wierszy z tabeli
+ 
+### 9. CREATE, ALTER, DROP
+
+Instrukcja CREATE DATABASE pozwala na tworzenie nowej bazy danych:
+CREATE DATABASE nazwa_bazy_danych
+ 
+Instrukcja CREATE TABLE pozwala na dodanie nowej tabeli:
+ 
+CREATE TABLE nazwa_tabeli 
+Kolumna1 typ_kolumny,
+Kolumna2 typ_kolumny,
+... ...
+KolumnaN typ_kolumny,
+PRIMARY KEY (kolumna lub kilka kolumn celem utworzenia klucza kompozytowego)
+ 
+Instrukcja ALTER pozwala na modyfikację istniejącej tabeli
+ 
+ALTER TABLE nazwa_tabeli
+ADD nazwa_kolumny typ_kolumny;
+ 
+Instrukcja DROP TABLE pozwala na usunięcie całej tabeli:
+DROP TABLE nazwa_tabeli;
+ 
+Instrukcja DROP DATABASE pozwala na usunięcie całej bazy danych:
+DROP DATABASE nazwa_bazy_danych;
+ 
+
 
 ## Subtask 2
 
