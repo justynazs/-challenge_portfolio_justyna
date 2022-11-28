@@ -351,7 +351,7 @@ https://docs.google.com/document/d/1ZkCe81PL8pesmCpvyTrOYfYr_1Mq0KaIQRgqvn_N_x0/
  
    ## SELECT * FROM customers WHERE email IS null
     
-    ![SQL_9](https://user-images.githubusercontent.com/116643249/204289698-805368d0-316c-4053-acd5-aa58cf65e918.png)
+   ![SQL_9](https://user-images.githubusercontent.com/116643249/204289961-aeff8da9-74f7-437f-9475-602c09ab4f03.png)
 
 
 
