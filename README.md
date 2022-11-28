@@ -290,6 +290,17 @@ https://testerzy.atlassian.net/jira/software/projects/CPP/boards/1/backlog?selec
 
 #  TASK 5
 
+![SQL_9](https://user-images.githubusercontent.com/116643249/204289698-805368d0-316c-4053-acd5-aa58cf65e918.png) 1
+
+## Subtask 1
+
+## Subtask 2
+
+### Konfiguracja środowiska i wgranie bazy danych
+
+![SQL](https://user-images.githubusercontent.com/116643249/204290307-49be7c19-e72e-4829-afdc-dc245ec09254.png)
+
+
 ## Subtask 3 
 
 http://localhost/phpmyadmin/index.php?route=/database/sql&db=kurs+_sql_
