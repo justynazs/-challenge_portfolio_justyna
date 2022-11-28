@@ -312,8 +312,8 @@ https://docs.google.com/document/d/1ZkCe81PL8pesmCpvyTrOYfYr_1Mq0KaIQRgqvn_N_x0/
 
    ## SELECT * FROM movies WHERE year_of_production >=1900 AND year_of_production<=1999
    
-    ![SQL_3](https://user-images.githubusercontent.com/116643249/204285512-a2df493a-a3e7-44d5-b539-afaef21940c1.png)
-   
+   ![SQL_3](https://user-images.githubusercontent.com/116643249/204289310-d1a65b95-611a-4236-a11e-b0218949c379.png)
+
 ### 4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$. 
 
    ## SELECT title, price FROM movies WHERE price<7$
@@ -331,7 +331,8 @@ https://docs.google.com/document/d/1ZkCe81PL8pesmCpvyTrOYfYr_1Mq0KaIQRgqvn_N_x0/
 
    ## SELECT * FROM actors WHERE actor_id=2 OR actor_id=4 OR actor_id=6
     
-    ![SQL_6](https://user-images.githubusercontent.com/116643249/204286063-bc3bee6e-3ce8-438f-9350-285280ed80b1.png)
+   ![SQL_6](https://user-images.githubusercontent.com/116643249/204289382-e7f4eeb2-863f-47bf-9d42-c9ad8fb48060.png)
+
     
 ### 7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN. 
 
@@ -350,7 +351,7 @@ https://docs.google.com/document/d/1ZkCe81PL8pesmCpvyTrOYfYr_1Mq0KaIQRgqvn_N_x0/
  
    ## SELECT * FROM customers WHERE email IS null
     
-    ![SQL_9](https://user-images.githubusercontent.com/116643249/204286616-ed72d701-6fce-4e14-85c4-de6be73a9103.png)
+    ![SQL_9](https://user-images.githubusercontent.com/116643249/204289247-cb5d144a-d291-4154-9dfd-4ab713486df9.png)
 
 
 ### 10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
