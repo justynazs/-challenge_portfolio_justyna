@@ -293,4 +293,11 @@ https://testerzy.atlassian.net/jira/software/projects/CPP/boards/1/backlog?selec
 ## Subtask 3 
 
 http://localhost/phpmyadmin/index.php?route=/database/sql&db=kurs+_sql_
+https://docs.google.com/document/d/1ZkCe81PL8pesmCpvyTrOYfYr_1Mq0KaIQRgqvn_N_x0/edit
+
+1.  Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
+
+SELECT surname * FROM actors ORDER BY surname ASC
+
+![SQL_1](https://user-images.githubusercontent.com/116643249/204284404-40ab8fe5-16a3-400d-aa66-e257c947f711.png)
 
