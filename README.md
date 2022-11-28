@@ -297,7 +297,69 @@ https://docs.google.com/document/d/1ZkCe81PL8pesmCpvyTrOYfYr_1Mq0KaIQRgqvn_N_x0/
 
 1.  Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
 
-SELECT surname * FROM actors ORDER BY surname ASC
+    SELECT surname * FROM actors ORDER BY surname ASC
 
 ![SQL_1](https://user-images.githubusercontent.com/116643249/204284404-40ab8fe5-16a3-400d-aa66-e257c947f711.png)
+
+2. Wyświetl film, który powstał w 2019 roku.
+
+   SELECT * FROM movies WHERE year_of_production LIKE 2019
+
+![SQL_2](https://user-images.githubusercontent.com/116643249/204285014-e54eea10-5184-4334-9bb3-91733321d434.png)
+
+
+3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
+
+   SELECT * FROM movies WHERE year_of_production >=1900 AND year_of_production<=1999
+   
+   ![SQL_3](https://user-images.githubusercontent.com/116643249/204285512-a2df493a-a3e7-44d5-b539-afaef21940c1.png)
+   
+4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$. 
+
+   SELECT title, price FROM movies WHERE price<7$
+   
+   ![SQL_4](https://user-images.githubusercontent.com/116643249/204285646-48ebada7-7f49-49de-bc95-6ef56121fde5.png)
+
+   
+5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7.
+
+   SELECT * FROM actors WHERE actor_id>=4 AND actor_id<=7
+   
+   ![SQL_5](https://user-images.githubusercontent.com/116643249/204285831-1129f2fe-919b-4c33-8835-440a09ef92ba.png)
+
+6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
+
+    SELECT * FROM actors WHERE actor_id=2 OR actor_id=4 OR actor_id=6
+    
+    ![SQL_6](https://user-images.githubusercontent.com/116643249/204286063-bc3bee6e-3ce8-438f-9350-285280ed80b1.png)
+    
+7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN. 
+
+   SELECT * FROM actors WHERE actor_id IN (1,3,5)
+   
+   ![SQL_7](https://user-images.githubusercontent.com/116643249/204286283-8dd65859-7d85-4fd1-87fc-c28db69c35ab.png)
+
+
+8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
+
+   SELECT * FROM actors WHERE name LIKE “an%”
+   
+   ![SQL_8](https://user-images.githubusercontent.com/116643249/204286453-ff008f9c-6f26-49a5-8d4d-2ef58f8743c2.png)
+   
+ 9. Wyświetl dane klienta, który nie ma podanego adresu email.
+ 
+    SELECT * FROM customers WHERE email IS null
+    
+    ![SQL_9](https://user-images.githubusercontent.com/116643249/204286616-ed72d701-6fce-4e14-85c4-de6be73a9103.png)
+
+
+10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
+ 
+   SELECT * FROM movies WHERE price>”9$” AND movies_id>=4 and MOVIES_ID<=8
+   
+   ![SQL_10](https://user-images.githubusercontent.com/116643249/204286846-bf10632c-edf4-4541-ba31-dde6247be9c5.png)
+
+
+
+
 
