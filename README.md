@@ -479,7 +479,22 @@ https://docs.google.com/document/d/1ZkCe81PL8pesmCpvyTrOYfYr_1Mq0KaIQRgqvn_N_x0/
 
 ### TASK 6
 
+
 ## Subtask 1
+
+### 11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd 🙈
+
+UPDATE customers SET name= "Ania" WHERE surname= "Muler"
+
+
+### 12
+
+UPDATE "cusomers" SET "email=pati@mail.com" WHERE 'customer_id=4"
+
+### 13
+
+![SQL_13](https://user-images.githubusercontent.com/116643249/205871853-c42870d9-39f5-4590-b579-4c16737be77f.png)
+
 
 ## Subtask 2
 
