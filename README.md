@@ -488,15 +488,38 @@ UPDATE customers SET name= "Ania" WHERE surname= "Muler"
 
 ![SQL_11](https://user-images.githubusercontent.com/116643249/205884740-c2248dd8-a913-4d26-9b72-ed3dd7654bcd.png)
 
-### 12
+### 12 Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.
+
+SELECT name, email FROM customers INNER JOIN movies ON customers.customer_id=movies.movies_id WHERE customer_id=4
+
+![SQL_14](https://user-images.githubusercontent.com/116643249/205897219-79c59ec2-01c3-47c0-afeb-d93db7e6ceca.png)
+
+
+### 13 Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com
 
 UPDATE "cusomers" SET "email=pati@mail.com" WHERE 'customer_id=4"
 
-![SQL_12](https://user-images.githubusercontent.com/116643249/205886144-f2f7e42b-f827-4628-9f45-5a02692d5886.png)
+![SQL_13](https://user-images.githubusercontent.com/116643249/205899581-c566254d-538f-4459-85cd-bc4ab2460069.png)
 
-### 13
 
-![SQL_13](https://user-images.githubusercontent.com/116643249/205871853-c42870d9-39f5-4590-b579-4c16737be77f.png)
+### 14 Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia).
+
+
+
+### 15
+
+
+### 16
+
+### 17
+
+
+### 18
+
+### 19
+
+### 20
+
 
 
 ## Subtask 2
