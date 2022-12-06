@@ -483,6 +483,36 @@ https://docs.google.com/document/d/1ZkCe81PL8pesmCpvyTrOYfYr_1Mq0KaIQRgqvn_N_x0/
 
 ## Subtask 2
 
+### 1. Które z poniższyh nie należy do podstawowych zasad testowania?
+
+ODP: Testowanie gruntowne
+
+### 2. Które z poniższych nie jest częścią podstawowego procesu testowego?
+
+1. Wszystkie wymienione czynności składają się na podstawowy proces testowy
+2. Czynności zamykające testy
+3. Planowanie i kontrola (nadzór) testów
+4. Analiza i projektowanie testów
+
+ODP: 1
+
+### 3. Częscią której czynności podstawowego procesu testowego jest przeglądanie podstawy testów?
+
+1. Analizy i projektowania testów
+
+2. Implementacji i wykonania testów
+ 
+3. Oceny spełnienia kryteriów zakończenia raportowania
+ 
+4. Czynności zamykajacych testy
+
+ODP: 1
+
+### 4. W którym momencie procesu wytarzania oprogramowania mozna rozpocząć testowanie?
+
+ODP: Gdy wymagania oprogramowania zostały zatwierdzone
+
+
 ### 5. Testowanie modułowe jest również nazywane:
 
 A. Testowaniem jednostkowym
@@ -490,6 +520,7 @@ A. Testowaniem jednostkowym
 B. Testowaniem programu
 
 D. Testowaniem komponentów.
+
 
 ### 6. Proces integracji rozpoczynany od modułów najniższego poziomu jest nazywany:
 
