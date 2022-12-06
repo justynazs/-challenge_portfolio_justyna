@@ -483,6 +483,126 @@ https://docs.google.com/document/d/1ZkCe81PL8pesmCpvyTrOYfYr_1Mq0KaIQRgqvn_N_x0/
 
 ## Subtask 2
 
+### 5. Testowanie modułowe jest również nazywane:
+
+A. Testowaniem jednostkowym
+
+B. Testowaniem programu
+
+D. Testowaniem komponentów.
+
+### 6. Proces integracji rozpoczynany od modułów najniższego poziomu jest nazywany:
+
+D. Integracją wstępującą
+
+### 7. Na którym poziomie testów można przeprowadzać testy funkcjonalne?
+
+Na każdym poziomie testów
+
+### 8. W której fazie cyklu życia oprogramowania wykorzystuje się testy statyczne?
+
+ODP: Analizie wymagań
+
+### 9. Jaki jest cel fazy planowania przeglądu formalnego?
+
+ODP: Przydzielanie ról
+
+### 10. Które z poniższych zdań najlepiej wyraża różnicę pomiędzy inspekcją a przejrzeniem?
+
+1.Inspekcja i przejrzenie prowadzone są przez autora
+2.Inspekcja jest prowadzona przez moderatora, a przejrzenie jest prowadzone przez autora
+3.Przejrzenie jest prowadzone przez autora. W czasie inspekcji autor nie jest obecny
+4.Zarówno inspekcja, jak i przejrzenie prowadzone są przez przeszkolonego moderatora
+
+ODP: 2
+
+### 11. W którym z poniższych znajduje się określenie wyników oczekiwanych dla testu?
+
+1.Specyfikacja procedury testowej
+2.Wyniki testów
+3.Specyfikacja przypadków testowych
+4.Projekt testu
+
+ODP: 3
+
+### 12. Na egzaminie kandydat musi otrzymać minimum 26 punktów, żeby zdać egzamin. Maksimum punktów to 40. Która z poniższych odpowiedzi zawiera wartości należącej do klasy równoważności oznaczającej, że kandydat zdał egzamin.
+
+1. 21, 39, 40
+
+2. 22, 23, 26
+
+3. 0, 15, 22
+
+
+4. 29, 30, 31
+
+ODP: 4
+
+### 13. Która z poniższych technik projektowania testów nie jest techniką czarnoskrzynkową?
+
+1. Testowanie w oparciu o tablicę decyzyjną
+
+2. Testowanie decyzji
+
+3. Podział na klasy równoważności
+
+4. Testowanie stanów
+
+ODP: 2
+
+### 14. Połącz związane ze sobą pojęcia z zakresu zarządzania konfiguracją:
+ 
+Prawidłowe pary są następujące:
+1-d: identyfikacja konfiguracji – wymaga, aby wszystkie elementy konfiguracji i ich wersje były znane,
+
+2-a: kontrola konfiguracji – utrzymuje elementy konfiguracji w bibliotece,
+
+3-c: informacja o statusie – funkcja rejestrowania i raportowania informacji potrzebnych do efektywnego zarządzania konfiguracją,
+
+4-b: audyt konfiguracji – sprawdza zawartość bibliotek elementów konfiguracji.
+ 
+### 15. Które z poniższych czynności powinny zostać wykonane podczas wyboru i wdrożenia narzędzia wspomagającego testy?
+
+A. Przyjrzenie się procesowi testowania w organizacji.
+
+B. Przeprowadzenie proof-of-concept.
+
+D. Zidentyfikowanie wymagań na coaching i mentoring w użyciu wybranego narzędzia.
+ 
+ ODP: 
+A. Przyjrzenie się procesowi testowania w organizacji.
+
+B. Przeprowadzenie proof-of-concept.
+
+D. Zidentyfikowanie wymagań na coaching i mentoring w użyciu wybranego narzędzia.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
 ## Subtask 3
 
 ### PORTFOLIO
