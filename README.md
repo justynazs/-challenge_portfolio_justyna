@@ -486,6 +486,7 @@ https://docs.google.com/document/d/1ZkCe81PL8pesmCpvyTrOYfYr_1Mq0KaIQRgqvn_N_x0/
 
 UPDATE customers SET name= "Ania" WHERE surname= "Muler"
 
+![SQL_11](https://user-images.githubusercontent.com/116643249/205884740-c2248dd8-a913-4d26-9b72-ed3dd7654bcd.png)
 
 ### 12
 
