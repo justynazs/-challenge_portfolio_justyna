@@ -285,7 +285,7 @@ W przypadku aplikacji natywnej testowaniu podlega jej „zewnętrzna” część
 
 ## Subtask 4
 
-https://testerzy.atlassian.net/jira/software/projects/CPP/boards/1/backlog?selectedIssue=CPP-19
+https://manualnetestowanie.atlassian.net/jira/software/projects/PDIC/boards/1/backlog?selectedIssue=PDIC-10
 
 
 #  TASK 5
